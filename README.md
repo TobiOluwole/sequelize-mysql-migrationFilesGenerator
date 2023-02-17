@@ -1,5 +1,6 @@
 # sequelize-mysql-migrationFilesGenerator
 This script helps you create full sequelize migration files from an existing database
+it should work in javascript too (with a few tweaks ofcourse)
 ## _I Hope This Helps!_
 
 A few things first..
