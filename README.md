@@ -21,7 +21,9 @@ By now you should have sequelize setup in your project and if not, you should se
 
 [YOUR_DATABASE_USER] to your database user (if you on localhost its most likely "root")
 
-[YOUR_DATABASE_PASSWORD] to your database user (if you on localhost its most likely "")
+[YOUR_DATABASE_PASSWORD] to your database user password (if you on localhost its most likely "")
+
+[YOUR_DATABASE_HOST] to your database host (url you use to connect with your database)
 
 
 
