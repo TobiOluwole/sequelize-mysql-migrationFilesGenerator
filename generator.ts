@@ -1,7 +1,7 @@
 
     const sequelize = new Sequelize('[YOUR_DATABASE]', '[YOUR_DATABASE_USER]', '[YOUR_DATABASE_PASSWORD]', {
         host: '[YOUR_DATABASE_HOST]',
-        dialect: '[YOUR_DATABASE_DIALECT]'
+        dialect: '[YOUR_DIALECT]'
     });
 
     const typeMap = {
