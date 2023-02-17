@@ -12,6 +12,11 @@ npm i sequelize-cli
 npx sequelize-cli init
 ```
 
+Then you need to install fs (to create the files)
+```sh
+npm i fs
+```
+
 By now you should have sequelize setup in your project and if not, you should see [Sequelize/Migrations](https://sequelize.org/docs/v6/other-topics/migrations/)
 
 # Change:
